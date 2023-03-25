@@ -9,11 +9,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1CUUjp31t9ODw9TnnrsZxEIfnp67D8nj9?usp=share_link](https://drive.google.com/drive/folders/1CUUjp31t9ODw9TnnrsZxEIfnp67D8nj9?usp=share_link)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pasanwadasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasanwadasinghe/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20683452/pasan-wadasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20683452/pasan-wadasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/sinixya_uvindu07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinixya_uvindu07/" height="30" width="40" /></a>
+<a href="https://medium.com/@pasanuvindu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pasanuvindu7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
